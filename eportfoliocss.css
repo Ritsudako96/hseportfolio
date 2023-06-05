@@ -35,6 +35,12 @@ body{
 			width: 40%;
 			height: auto;
 		  }
+		.iframealt{
+			display: inline-block;
+			margin-left: auto;
+			margin-right: auto;
+			width: 80%;
+		  }
 		.p1{
 			font-family: monospace;
 			font-size: 50px;
