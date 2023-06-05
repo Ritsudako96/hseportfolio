@@ -35,8 +35,12 @@ body{
 			width: 40%;
 			height: auto;
 		  }
-		.iframealt{
+		.iframealt1{
 			display: inline-block;
+			width: 50%;
+		  }
+		.iframealt2{
+			display: inline;
 			width: 50%;
 		  }
 		.p1{
