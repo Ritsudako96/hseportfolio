@@ -42,18 +42,15 @@ body{
 			width: 60%;
 		  }
 		.p1{
-			font-family: monospace;
 			font-size: 50px;
 			text-align: center;
 			text-shadow: 4px 4px 10px white;
 		  }
 		.p2{
-			font-family: monospace;
 			font-size: 30px;
 			text-align: center;
 		  }
 		.p3{
-			font-family: monospace;
 			font-size: 20px;
 			text-align: center;
 		  }
